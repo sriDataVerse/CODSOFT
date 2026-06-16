@@ -85,6 +85,13 @@ Visualizations include:
 
 The project demonstrates how machine learning classification techniques can be used to analyze passenger data and predict survival outcomes.
 
+## Future Improvements
+
+- Hyperparameter tuning
+- Try advanced algorithms
+- Improve model accuracy
+- Deploy the model using Streamlit or Flask
+
 ## Status
 
 ✔ Completed as part of CodSoft Internship Task 2
